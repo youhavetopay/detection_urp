@@ -1,0 +1,8 @@
+item { 
+	name:'LongPant'
+	id:1
+}
+item { 
+	name:'ShortPant'
+	id:2
+}
